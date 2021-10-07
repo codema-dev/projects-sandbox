@@ -1,0 +1,33 @@
+channels:
+- conda-forge
+- patrikhlobil
+dependencies:
+- aiohttp
+- conda-merge
+- fsspec
+- geopandas
+- invoke
+- ipykernel
+- lxml
+- numpy
+- odfpy
+- openpyxl
+- osmnx
+- pandas
+- pandas-bokeh
+- pandera
+- pip
+- ploomber
+- prefect
+- pyarrow
+- pygeos
+- pygraphviz
+- python
+- python-dotenv
+- requests
+- s3fs
+- seaborn
+- pip:
+  - codema-dev-tasks==0.2.0
+  - rcbm
+name: codema-dev-projects
