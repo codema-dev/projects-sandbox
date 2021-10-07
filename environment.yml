@@ -9,6 +9,7 @@ dependencies:
 - invoke
 - ipykernel
 - lxml
+- nbgitpuller
 - numpy
 - odfpy
 - openpyxl
